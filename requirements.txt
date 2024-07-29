@@ -1,0 +1,10 @@
+Flask==2.0.2
+gunicorn==19.9.0
+numpy
+pandas
+scikit-learn
+pydotplus
+ipython
+graphviz
+jinja2==3.0.3
+werkzeug==2.0
